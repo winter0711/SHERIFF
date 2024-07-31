@@ -1,0 +1,9 @@
+application_id: "1267865416613625968" # 
+token: "MTI2Nzg2NTQxNjYxMzYyNTk2OA.Gn4WRc.tL96LjZfgfUwe9VyNyYJAizJ_7tsnIRpGS3f9U"
+administrator_role_ids:
+  - #관리자급 역활 id 
+  - 1255804660581662760 
+  - 1268091526597312525
+public_role_ids:
+  - #일반 직급 역활 id 
+  - 1255804399393968151
